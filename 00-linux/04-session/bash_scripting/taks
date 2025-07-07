@@ -1,0 +1,135 @@
+2. Write a script that:
+   - Defines a function to check if a file exists.
+   - Takes a filename as input and prints whether the file exists or not.
+
+3. Write a script that:
+   - Defines a function to reverse a string.
+   - Takes a string as input and prints the reversed string.
+
+---
+
+### **Task 5: Arrays**
+1. Write a bash script that:
+   - Creates an array of 5 fruits.
+   - Uses a `for` loop to print each fruit in the array.
+
+2. Write a script that:
+   - Takes 5 numbers as input from the user and stores them in an array.
+   - Calculates the sum of the numbers in the array.
+
+3. Write a script that:
+   - Creates an array of filenames in the current directory.
+   - Prints the filenames and their sizes.
+
+---
+
+### **Task 6: File Handling**
+1. Write a bash script that:
+   - Creates a directory called `test_dir`.
+   - Creates 5 files inside the directory (`file1.txt`, `file2.txt`, etc.).
+   - Lists all the files in the directory.
+   - Deletes the directory and its contents using a loop.
+
+2. Write a script that:
+   - Asks the user for a filename.
+   - Checks if the file exists.
+   - If the file exists, it appends the current date and time to the file.
+   - If the file does not exist, it creates the file and writes the current date and time to it.
+
+3. Write a script that:
+   - Reads a file line by line and prints each line with a line number.
+
+---
+
+### **Task 7: Advanced Scripting**
+1. Write a bash script that:
+   - Uses the `bc` command to perform floating-point arithmetic (e.g., division of two numbers with a precision of 5 decimal places).
+
+2. Write a script that:
+   - Converts a decimal number to binary using the `bc` command.
+
+3. Write a script that:
+   - Uses the `diff` command to compare two files and prints the differences.
+
+---
+
+### **Task 8: Error Handling**
+1. Write a bash script that:
+   - Checks if a command (e.g., `ls`) was successful or not using the `$?` variable.
+   - Prints an error message if the command fails.
+
+2. Write a script that:
+   - Uses `trap` to handle errors and clean up temporary files if the script exits unexpectedly.
+
+---
+
+### **Task 9: Environment Variables**
+1. Write a bash script that:
+   - Prints the value of the `PATH`, `HOME`, and `USER` environment variables.
+   - Adds a new directory to the `PATH` variable temporarily.
+
+2. Write a script that:
+   - Exports a variable in a parent shell and demonstrates how it is accessible in a subshell.
+
+---
+
+### **Task 10: Quoting and Special Characters**
+1. Write a bash script that:
+   - Demonstrates the difference between single quotes (`'`) and double quotes (`"`).
+   - Uses special characters like `$`, `\`, and `{}` in a script.
+
+2. Write a script that:
+   - Uses the `echo` command to print a string containing special characters (e.g., `$USER`, `\n`).
+
+---
+
+### **Task 11: Final Project**
+1. Write a comprehensive bash script that:
+   - Displays system information (e.g., kernel version, disk usage).
+   - Manages services (e.g., starts, stops, or restarts a service).
+   - Installs and removes a package.
+   - Performs basic arithmetic operations.
+   - Uses loops, conditionals, and functions.
+
+---
+
+### **Task 12: POSIX Compliance**
+1. Write a POSIX-compliant script that:
+   - Works on both `bash` and `sh` shells.
+   - Demonstrates the use of basic POSIX commands (e.g., `echo`, `test`, `if`, `while`).
+
+2. Research and list the differences between `bash` and POSIX-compliant shells.
+
+---
+
+### **Task 13: File Permissions**
+1. Write a bash script that:
+   - Creates a file and changes its permissions using `chmod`.
+   - Checks if the file has read, write, and execute permissions for the owner, group, and others.
+
+2. Write a script that:
+   - Changes the owner of a file using `chown`.
+   - Verifies the change by printing the new owner of the file.
+
+---
+
+### **Task 14: Advanced Functions**
+1. Write a bash script that:
+   - Defines a function to calculate the area of a rectangle.
+   - Takes the length and width as input and prints the area.
+
+2. Write a script that:
+   - Defines a function to reverse a string.
+   - Takes a string as input and prints the reversed string.
+
+---
+
+### **Task 15: Interactive Script**
+1. Write a bash script that:
+   - Presents a menu to the user with options like:
+     - Display system information.
+     - List files in the current directory.
+     - Create a new directory.
+     - Exit the script.
+   - Based on the user's choice, perform the corresponding action.
+
