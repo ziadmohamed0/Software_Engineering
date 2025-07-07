@@ -1,0 +1,3 @@
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/02-OOP/03-OOP_Relations/TASKS/build/CMakeFiles/TASK_13.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/02-OOP/03-OOP_Relations/TASKS/build/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/02-OOP/03-OOP_Relations/TASKS/build/CMakeFiles/rebuild_cache.dir
