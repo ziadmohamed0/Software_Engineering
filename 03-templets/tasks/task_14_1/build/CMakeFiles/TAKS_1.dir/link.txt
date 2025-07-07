@@ -1,0 +1,1 @@
+/usr/bin/c++ -I/snap/webots/27/usr/share/webots/include/controller/c -L/snap/webots/27/usr/share/webots/lib/controller -lController CMakeFiles/TAKS_1.dir/main.cpp.o -o TAKS_1
