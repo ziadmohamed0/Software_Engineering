@@ -1,0 +1,5 @@
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Weather_Project-Desktop-Debug/CMakeFiles/Weather_Project.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Weather_Project-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Weather_Project-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Weather_Project-Desktop-Debug/CMakeFiles/Weather_Project_autogen_timestamp_deps.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Weather_Project-Desktop-Debug/CMakeFiles/Weather_Project_autogen.dir

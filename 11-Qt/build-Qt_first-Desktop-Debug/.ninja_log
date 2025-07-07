@@ -1,0 +1,11 @@
+# ninja log v5
+33	1779	1749288055939037153	CMakeFiles/Qt_first.dir/test.cpp.o	9924924d146ea294
+1	27	1749289642026491501	/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/Qt_first_autogen/mocs_compilation.cpp	cb24f3ca8669663c
+1	27	1749289642026491501	/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/Qt_first_autogen/timestamp	cb24f3ca8669663c
+1778	1988	1749288545573730922	Qt_first	b79ccfb010ae15bb
+34	1778	1749288545358729872	CMakeFiles/Qt_first.dir/main.cpp.o	e824c6031fc2738e
+27	33	1749289642040491558	CMakeFiles/Qt_first.dir/Qt_first_autogen/mocs_compilation.cpp.o	b650cf193faebce7
+1	27	1749289642026491501	Qt_first_autogen/mocs_compilation.cpp	cb24f3ca8669663c
+1	27	1749289642026491501	Qt_first_autogen/timestamp	cb24f3ca8669663c
+0	101	1749289643120495955	build.ninja	7d4f0e469b59b448
+27	57	1749289642062491647	CMakeFiles/Qt_first.dir/cat.cpp.o	f115ab9220d5308d

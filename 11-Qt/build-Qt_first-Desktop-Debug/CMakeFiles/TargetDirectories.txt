@@ -1,0 +1,5 @@
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/CMakeFiles/Qt_first.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/CMakeFiles/Qt_first_autogen_timestamp_deps.dir
+/home/ziad/Ziad_WS/Software_Enginerring/02-C++/08-Qt/build-Qt_first-Desktop-Debug/CMakeFiles/Qt_first_autogen.dir
